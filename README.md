@@ -1,4 +1,4 @@
-## Project_6-Prediction_of_Smoking
+## Project-6_Prediction_of_Smoking
 ### Description
 This is case study dataset for the  project.
 it is binary classification problem using person particular gene and its smoking history to predict smoking or NOT.
