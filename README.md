@@ -1,7 +1,7 @@
 ## Project_6-Prediction_of_Smoking
 ### Description
-This is case study dataset took from Datacamp project.
-it is binary classification problem using person particular gene and its smoking history to predict per have cancer or NOT.
+This is case study dataset for the  project.
+it is binary classification problem using person particular gene and its smoking history to predict smoking or NOT.
 
 Genetic polymorphisms associated with the risk of lung cancer in never smokers are expected to overlap with those associated with the risk of lung cancer in ever smokers only partially.
 ### Null Hypothesis:: 
