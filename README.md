@@ -2,7 +2,7 @@
 ### Description
 This is case study dataset for the  project.The data set describes readmitted patients in diabetics. There are about 34 variables included that cover chacterictics of patients admitted at some point in time. Most variables describe the patient characteristics, medical conditions or features of medical threatments but other variables provide measures of quality and condition. The data types are varied and include discrete, continuous, and categorical (both nominal and ordinal) data.
 
-It is binary classification problem using patients characteristics and its smoking history to predict smoking or NOT.
+It is binary classification problem using patients characteristics and its smoking history to predict readmitted or NOT.
 
 ### Null Hypothesis:: 
 There is no relationship between patient`s characteristics including,  onadmit vital signs,number of medications, weight asmoking status and readmission status.
